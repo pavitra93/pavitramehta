@@ -1,11 +1,14 @@
 {
-  "posts": [
+  "profile": [
     {
-      "id": 1,
-      "title": "hello"
+        "name": "Pavitra Mehta",
+        "Bio": "I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition."
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "links": {
+        "facebook": "http://facebook.com",
+        "twitter": "http://twitter.com",
+        "git": "http://git.com",
+        "linkedin": "http://linkedin.com"
   }
 }
