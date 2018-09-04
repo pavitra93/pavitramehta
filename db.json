@@ -18,19 +18,12 @@
         "linkedin": "http://linkedin.com"
     },
     "experience": [
-        { "id": 0, "position": "Sr. Software Engineer", "company":"Zymr, Inc.","period":"2018-present","desc":"Agile Developer"},
-        { "id": 1, "position": "Associate Product Develpoper", "company":"Alcanttor Information Solution","period":"2016-2018","desc":"Agile Developer"}
+        { "position": "Sr. Software Engineer", "company":"Zymr, Inc.","period":"2018-present","desc":"Agile Developer"},
+        { "position": "Associate Product Develpoper", "company":"Alcanttor Information Solution","period":"2016-2018","desc":"Agile Developer"}
     ],
     "education": [
-        { "id": 0, "degree": "Bachelor of Technology", "period":"2018-present", "stream":"Computer Science"}
-    ],
-    "skills": [
-        {"id":0, "skill":"PHP","rating":8,"desc":"Core+Advanced"}
-    ],
-    "intress": {
-        "desc":"Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking. When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world."
-    }
-    
+        { "degree": "Bachelor of Technology", "period":"2018-present", "stream":"Computer Science"}
+    ]    
     
     
   
